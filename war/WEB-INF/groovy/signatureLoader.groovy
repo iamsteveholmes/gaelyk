@@ -1,3 +1,9 @@
+// flow:
+//  client generates a signature for a audio file
+//  client packages up json based signature
+//  server saves the signature
+// the package should include the signature (obviously) artist? album? title? and who is providing the signature
+
 import java.net.URL
 import net.sf.json.groovy.JsonSlurper
 
