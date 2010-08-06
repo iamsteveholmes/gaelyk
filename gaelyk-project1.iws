@@ -60,7 +60,7 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.gtpl" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.gtpl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/war/index.gtpl">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -78,10 +78,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="signatureLoader.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="signatureLoader.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/war/WEB-INF/groovy/signatureLoader.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="35" selection-start="501" selection-end="501" vertical-scroll-proportion="0.48">
+            <state line="8" column="29" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -144,7 +144,7 @@
       <file leaf-file-name="header.gtpl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/war/WEB-INF/includes/header.gtpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="4" column="6" selection-start="55" selection-end="287" vertical-scroll-proportion="-2.4">
               <folding />
             </state>
           </provider>
@@ -160,6 +160,14 @@
   <component name="Git.Settings">
     <option name="GIT_EXECUTABLE" value="/opt/local/bin/git" />
     <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/war/WEB-INF/groovy/signatureLoader.groovy" />
+        <option value="$PROJECT_DIR$/war/WEB-INF/includes/header.gtpl" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -610,13 +618,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/index.gtpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/war/upload.gtpl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -657,11 +658,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/WEB-INF/includes/header.gtpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/war/success.gtpl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="-12.6">
@@ -671,7 +667,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/war/WEB-INF/groovy/signatureLoader.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="35" selection-start="501" selection-end="501" vertical-scroll-proportion="0.48">
+        <state line="8" column="29" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/WEB-INF/includes/header.gtpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="6" selection-start="55" selection-end="287" vertical-scroll-proportion="-2.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/index.gtpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
